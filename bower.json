@@ -14,5 +14,8 @@
     "bower_components",
     "test",
     "tests"
-  ]
+  ],
+  "dependencies": {
+    "owl.carousel": "OwlCarousel2#~2.0.0-beta.3"
+  }
 }
